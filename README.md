@@ -2,8 +2,8 @@
 Git workshop at Broward College for the Hackathon.
 
 # Hello World
-def test():
-    print("Hello World!")
+def test():\n
+    print("Hello World!")\n
     
-if __name__ == "__main__":
+if \_\_name\_\_ == "\_\_main\_\_":\n
     test()
